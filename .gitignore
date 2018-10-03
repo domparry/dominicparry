@@ -1,0 +1,10 @@
+# Ignore everything by default.
+*
+
+!.gitignore
+
+# Spacemacs
+!.spacemacs
+!.spacemacs.env
+!.zshenv
+!.zshrc
