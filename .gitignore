@@ -7,3 +7,5 @@
 !.spacemacs.env
 !.zshenv
 !.zshrc
+!.jsbeautifyrc
+!.tern-config
